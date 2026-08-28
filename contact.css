@@ -18,7 +18,7 @@ body{
     font-weight:700;
 }
 .hero span{
-    color:orange;z;
+    color:green;z;
 }
 .hero p{
     opacity:0.7;
@@ -51,7 +51,7 @@ body{
 .icon{
     width:45px;
     height:45px;
-    background: orange;
+    background: green;
     border-radius:10px;
     display:flex;
     align-items:center;
@@ -98,7 +98,7 @@ input, textarea{
     transition:0.3s
 }
 input:focus, textarea:focus{
-    border-color:orange;
+    border-color:green;
     background:white
 }
 .btn{
@@ -114,7 +114,7 @@ input:focus, textarea:focus{
     transition:0.3s
 }
 .btn:hover{
-    background:orange;
+    background:green;
     transform:translateY(-2px)
 }
 .map-section{
@@ -133,7 +133,7 @@ input:focus, textarea:focus{
 }
 .badge{
     background:#fff0d6;
-    color: orange;
+    color: green;
     padding:6px 14px;
     border-radius:20px;
     font-size:13px;

@@ -29,14 +29,14 @@ nav a {
 
 nav a:hover,
 nav .active {
-  color: orange;
+  color: green;
 }
 
 /* Hero */
 .about-hero {
   text-align: center;
   padding: 70px 20px;
-  background: linear-gradient(135deg, #0f172a, orange);
+  background: linear-gradient(135deg, #0f172a, green);
   color:white;
   background-image: url(c5a451a6-24d5-429e-b21a-be17bef785b3.jpg)
   
@@ -79,11 +79,11 @@ nav .active {
 
 .about-card {
   flex: 1;
-  border-left: 5px solid orange;
+  border-left: 5px solid green;
 }
 
 h2 {
-  color: orange;
+  color:green ;
   margin-bottom: 15px;
 }
 
